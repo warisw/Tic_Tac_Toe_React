@@ -1,0 +1,17 @@
+.buttonCell{
+    border: 3px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4em;
+ 
+}
+.buttonCell:disabled{
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    font-size: 2em;
+ 
+}
